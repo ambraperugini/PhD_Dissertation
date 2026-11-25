@@ -1,0 +1,2 @@
+# Effect Sizes comparison under non-normality
+
